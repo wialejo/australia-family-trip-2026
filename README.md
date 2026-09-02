@@ -7,6 +7,7 @@ Interactive visual planning board for the family trip to Australia.
 - Status: planning draft; no bookings are confirmed by this site
 - Group-of-five route: Sydney, Sydney Zoo, Blue Mountains, Jervis Bay, Melbourne, Great Ocean Road with overnight in Port Campbell, Newcastle, and Seal Rocks
 - Phillip Island removed from the current proposal
+- Optional Melbourne/Yarra Ranges day: Maroondah Reserve; Redwood Forest remains optional
 - Budget adjustment: add A$500 for Port Campbell accommodation
 
 The live page is published with GitHub Pages.
